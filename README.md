@@ -3,7 +3,7 @@ Kernel zip creator
 
 CWM flashable kernel zip creator, based on teamhacksung work for CyanogenMod.
 
-This repo must reside in ${TOP}/buildscripts
+This repo must reside in `${TOP}/buildscripts`
 
 Usage
 -----
